@@ -1,5 +1,5 @@
 import re
-filenames = ["WhatsApp Chat with Person B"]
+filenames = ["WhatsApp Chat"]
 
 for names in filenames:
 	file_handle = open(names + ".txt")
